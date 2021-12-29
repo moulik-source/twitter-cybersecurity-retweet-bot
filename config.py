@@ -18,4 +18,4 @@ FOLLOW = False
 # all the time so that your account does not
 # get banned.
 
-SLEEP_TIME = 10
+SLEEP_TIME = 600
