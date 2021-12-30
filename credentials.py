@@ -2,7 +2,7 @@
 # edit this file. You need to get these
 # details from your Twitter app settings.
 
-consumer_key = 'C0u83ZaZLN2i9BTKexZbLWSzE'
-consumer_secret = 'z3GYDpluVtxLLM7ivv7so5djxatyAyzpZIb2HrwLzMmZ64TDhh'
-access_token = '1364624646692249600-zYkFuPCS5NhDbNPKdCYf6kmmNEwDR3'
-access_token_secret = 'VjVBOFU790fCGtPpzb0Wd0VxuNufjGdbTvBltYoQ6X0fT'
+consumer_key = 'jmICbCJXEwiOHhkIQU3xSVp37'
+consumer_secret = 'fUzoIFdWfEsViIk1AqOkkKvnd2w6sOlqEoY4Nsezj1mxgFZ7zR'
+access_token = '1364624646692249600-kH2EYmY1UWttKt8xG0N5AbhyxogyXu'
+access_token_secret = 'HiEbUKAfcSzHUT7rWPjuOTNxvilKLkr5RtFNfrjOhLvcG'
